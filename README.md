@@ -55,8 +55,8 @@
 <details open>
   <summary>🚩Achievement</summary>
     <ul>
-      <li><a target="_blank" href="https://oj.lidemy.com/">LidemyOJ (LIOJ)</a> : 1001 - 1053 ( all )</li>
-      <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li>
+      <li><a target="_blank" href="https://oj.lidemy.com/">LidemyOJ (LIOJ)</a> : 1001 - 1051( 51/53 )</li>
+<!--       <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li> -->
     </ul>
 </details>
 
