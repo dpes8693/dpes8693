@@ -1,12 +1,8 @@
 ## 👋 Hi, I’m @dpes8693
 
-<p align="center">Taiwan</p>
-
 - 👀 I’m interested in : `Vue`, `Vuetify`
 - 🌱 I’m currently learning : `jQuery`, `React`
 - 🚀 Contact me : [![](https://img.shields.io/static/v1?label=&message=dpes8693&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:dpes8693@gmail.com)
-
-
 
 <!-- icon -->
 <h3 align="left">Languages and Tools:</h3>
@@ -59,7 +55,11 @@
 <!--       <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li> -->
     </ul>
 </details>
+<!-- benben6515/Readme  -->
 
-<!-- fork from benben6515/Readme  -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dpes8693&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dpes8693&show_icons=true&locale=en" alt="dpes8693" /></p>
+
