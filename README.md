@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in : `Vue`, `Vuetify`
 - 🌱 I’m currently learning : `jQuery`, `React`
-- 🚀 Contact me : [![](https://img.shields.io/static/v1?label=&message=dpes8693&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:dpes8693@gmail.com)
+- 🚀 Contact me : [![](https://img.shields.io/badge/%20-%20dpes8693-white?logo=gmail&color=white)](mailto:dpes8693@gmail.com)
 
 <!-- icon -->
 
