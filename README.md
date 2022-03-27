@@ -5,8 +5,7 @@
 - 🚀 Contact me : [![](https://img.shields.io/static/v1?label=&message=dpes8693&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:dpes8693@gmail.com)
 
 <!-- icon -->
-<h3 align="left">Languages and Tools:</h3>
-<!--  -->
+
 <p align="left"> 
      <!-- <a href="https://getbootstrap.com" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>            </a>  -->
@@ -49,13 +48,23 @@
 </p>
 <!-- icon-end -->
 
+<h3 align="left">Languages and Tools:</h3>
 
 <!-- badge -->
+<p>
 <a href=""><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href=""><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
 <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
+<p>
+<a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href=""><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href=""><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
+
+</p>
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- end-badge -->
 
 
