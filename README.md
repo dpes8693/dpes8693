@@ -46,6 +46,13 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
      </a> 
 </p>
+<!-- icon-end -->
+
+<a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href=""><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+<a href=""><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 
 <!-- achievement -->
 <details open>
@@ -55,11 +62,11 @@
 <!--       <li><a target="_blank" href="https://lidemy-http-challenge.herokuapp.com/start">Lidemy HTTP Challenge</a> : 01 - 15 ( all )</li> -->
     </ul>
 </details>
-<!-- benben6515/Readme  -->
+<!-- end-achievement  -->
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dpes8693&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dpes8693&show_icons=true&locale=en" alt="dpes8693" /></p>
-
