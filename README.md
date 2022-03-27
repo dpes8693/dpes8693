@@ -59,12 +59,15 @@
 <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 <p>
+
+<a href=""><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?\logo=github&logoColor=white"></a>
 <a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href=""><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href=""><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
+<!-- <a href=""><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a> -->
+<a href=""><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"></a>
+<a href=""><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"></a>
 
 </p>
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk style=for-the-badge-->
 <!-- end-badge -->
 
 
