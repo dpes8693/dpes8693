@@ -1,4 +1,7 @@
 ## 👋 Hi, I’m @dpes8693
+<!-- https://pufler.dev/git-badges/ -->
+[![Visits Badge](https://badges.pufler.dev/visits/dpes8693/blog-vuepress)](https://badges.pufler.dev)
+<!-- ![](https://komarev.com/ghpvc/?username=dpes8693) -->
 
 - 👀 I’m interested in : `Vue`, `Vuetify`
 - 🌱 I’m currently learning : `jQuery`, `React`
