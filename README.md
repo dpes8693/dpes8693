@@ -89,3 +89,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dpes8693&show_icons=true&locale=en" alt="dpes8693" /></p>
 <!-- end-status -->
+
+<h4>Other Link</h4>
+
+[gist](https://gist.github.com/dpes8693)
