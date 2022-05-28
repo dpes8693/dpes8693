@@ -92,4 +92,4 @@
 
 <h4>Other Link</h4>
 
-[gist](https://gist.github.com/dpes8693)
+[gist](https://gist.github.com/dpes8693) | [twitter](https://twitter.com/dpes5407)
