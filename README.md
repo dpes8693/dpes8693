@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @dpes8693
+## 👋 Hi, I’m Richard.
 
 - 👀 I’m interested in : `Vue`, `Vuetify`
 - 🌱 I’m currently learning : `jQuery`, `React`
