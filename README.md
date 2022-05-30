@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Richard.
 
 - 👀 I’m interested in : `Vue`, `Vuetify`
-- 🌱 I’m currently learning : `jQuery`, `React`
+- 🌱 I’m currently learning : `Express`, `React`
 - 🚀 Contact me : <a href="mailto:dpes8693@gmai1.com"><img alt="Markdown" src="https://img.shields.io/badge/%20-%20dpes8693-white?logo=gmail&color=white"></a>
 
 
