@@ -1,9 +1,8 @@
 ## 👋 Hi, I’m Richard.
 
 - 👀 I’m interested in : `Vue`, `Vuetify`
-- 🌱 I’m currently learning : `Express`, `React`
+- 🌱 I’m currently learning : `Nuxt.js`, `Next.js`
 - 🚀 Contact me : <a href="mailto:dpes8693@gmai1.com"><img alt="Markdown" src="https://img.shields.io/badge/%20-%20dpes8693-white?logo=gmail&color=white"></a>
-
 
 <!-- icon -->
 <p> 
@@ -72,7 +71,6 @@
 
 <!-- end-badge -->
 
-
 <!-- game -->
 <details open>
   <summary>🚩Code Game</summary>
@@ -85,19 +83,22 @@
       <li><a target="_blank" href="https://github.com/Lidemy/lazy-hackathon">lazy-hackathon</a> </li>
       <li><a target="_blank" href="https://flukeout.github.io/">CSS Diner</a> </li>
       <li><a target="_blank" href="http://flexboxfroggy.com/">Flexbox Froggy</a> </li>
+      <li><a target="_blank" href="https://cssbattle.dev/battle/1">CSS battle</a> </li>
      </ul>
       <!--Code War https://github.com/Lidemy/mentor-program-4th-ivymuchacha/blob/master/codewar.md -->
 </details>
 <!-- end-game  -->
 
-
 <!-- status -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dpes8693&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=dpes8693&show_icons=true&locale=en" alt="dpes8693" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=dpes8693&show_icons=true&locale=en" alt="dpes8693" /></p>
 <!-- end-status -->
 
 <h4>Other Link</h4>
 
-[gist](https://gist.github.com/dpes8693) | [twitter](https://twitter.com/dpes5407)
+- [gist](https://gist.github.com/dpes8693)
+- [twitter](https://twitter.com/dpes5407)
